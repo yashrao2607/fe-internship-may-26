@@ -5,7 +5,7 @@
 A React + TypeScript single-page app for searching a list of frontend tools and technologies. Users type in a search box and see filtered results update in real time. Stack: React 18, TypeScript, Vite, TailwindCSS. No backend -- all data is mock with simulated async delay.
 
 ## Repository Layout
-
+  
 ```
 src/
   components/
